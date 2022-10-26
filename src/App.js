@@ -11,6 +11,7 @@ const App = () => {
     "designing",
     "functioning",
     "sleeping",
+    "Prayers",
   ]);
   // const [preArr, setPreArr] = useState([]);
 
